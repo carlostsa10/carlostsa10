@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1> <img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="36px"> Hello, hello, hello <img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="36px"> </h1>
-
+<div align="center">
 <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5561986084481" target="_blank">
   <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
   <a href="https://mail.google.com/mail/u/carlostsa10@gmail.com" target="_blank">
@@ -22,6 +22,8 @@ Here are some ideas to get you started:
   <a href="https://web.facebook.com/mrcarlost" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/carlostsa/" target="_blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  </div>
+  
   <img align='right' src='https://fv9-3.failiem.lv/thumb_show.php?i=4y4j8wnqq&view' width='390px'>
 
 I'm Carlos Tavares, 25 years old, lawyer and i'm a crazy marvel fan. 🤟
@@ -46,4 +48,9 @@ These are the ones I am curiosos about:
 <div align="center">
   <a href="https://github.com/carlostsa">
 
+</div>
+  <div align="center">
+  <a href="https://github.com/carlostsa10
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=carlostsa10&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true%22/%3E
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostsa10&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true%22/%3E
 </div>
