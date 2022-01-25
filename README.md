@@ -26,17 +26,13 @@ Here are some ideas to get you started:
 
 I'm Carlos Tavares, 25 years old, lawyer and i'm a crazy marvel fan. 🤟
 
-I'm addicted to learn new things and be the better I can at them. So in november of 2021 I decided to start the course of full stack develoment at Cubos Academy. Besides this I have been learning all about tecnology 🤖, humans relationships 🧠 and bussiness 👩🏽💸. 
-
-You can go through for some informations about me 😊
 
 <br>
 
-<h2>👩🏽‍🏫Abilities</h2>
+<h2>⚡Abilities</h2>
 
--   Front-end 
 -   Back-end 
--   Data Science 
+-   Front-end
   
 These are the tecnologys that I am currently styding ate the moment:
 
