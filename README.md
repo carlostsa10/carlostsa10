@@ -51,5 +51,5 @@ These are the ones I am curiosos about:
 
 <div align="center">
   <a href="https://github.com/carlostsa">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlostsa)](https://github.com/anuraghazra/github-readme-stats)
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=carlostsa)](https://github.com/anuraghazra/github-readme-stats"/>
 </div>
