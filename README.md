@@ -51,6 +51,6 @@ These are the ones I am curiosos about:
 </div>
   <div align="center">
   <a href="https://github.com/carlostsa10
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=carlostsa10&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true%22/%3E
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostsa10&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true%22/%3E
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=carlostsa10&show_icons=true&theme=dracula&hide_border=true&include_all_commits=true&count_private=true%22/%3E
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostsa10&layout=compact&langs_count=7&theme=dracula_border=true%22/%3E
 </div>
