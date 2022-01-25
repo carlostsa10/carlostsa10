@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **carlostsa10/carlostsa10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,20 +13,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> <img src="https://image.pngaaa.com/160/62160-middle.png" width="36px"> Hello, hello, hello<img src="https://image.pngaaa.com/160/62160-middle.png" width="36px"> </h1>
+<h1> <img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="36px"> ##👋 Hello, hello, hello<img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="36px"> </h1>
 
 <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5561986084481" target="_blank"><img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  <a href="https://mail.google.com/mail/u/carlostsa10@gmail.com" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://web.facebook.com/mrcarlost" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/carlostsa/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="" target="_blank">
   
-<img align='right' src='https://kpoplat.com/wp-content/uploads/2020/11/jungkook-gif.gif' width='390px'>
+<img align='right' src='https://files.fm/u/438qhsgt5' width='490px'>
 
-I'm Maria Eduarda Furtado 🌹, but you can just call me Duda. 🤟
-
-I have been raised my 18 years old 🔞 of life in Salvador, Brazil 🇧🇷 and now after learned a lot of english and understand a little more about the world 🌍 through my cell phone screen, I noticed that I need to know in person other cultures 🎎 and pepople around the world. ✈️⛩️🗽🗼🏝️🏯
+I'm Carlos Tavares, 25 years old, lawyer and i'm a crazy marvel fan. 🤟
 
 I'm addicted to learn new things and be the better I can at them. So in november of 2021 I decided to start the course of full stack develoment at Cubos Academy. Besides this I have been learning all about tecnology 🤖, humans relationships 🧠 and bussiness 👩🏽💸. 
 
-What do you thing about we going through some informations about me? 😊
+You can go through for some informations about me 😊
 
 <br>
 
@@ -47,22 +44,9 @@ These are the ones I am curiosos about:
 
 <br>
 
-<h2>😜About me</h2> 
-
-<img align='right' src='https://pa1.narvii.com/6479/d370e5f18b1244a18345f7f53c8fae77668c3e46_hq.gif' width='380px'>
-
--   I love music 🎵🎧, languages and kpop 🇰🇷
--   I love 🐘 and 🐨 cause they are cute
--   I love to eat 🍣 and 🍟
--   I have been playing soccer ⚽ since I was just a kid
--   I would love to know how to paint 🎨
-  
-<br>
-
-<h2> <img src="http://i2.wp.com/elephant.neckboltgames.com/wp-content/uploads/2015/10/snoke2d.gif" width="47px"> <img alt="Github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> </h2>
 
 <div align="center">
-  <a href="https://github.com/dudafurtado">
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=dudafurtado&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudafurtado&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true"/>
+  <a href="https://github.com/carlostsa">
+  <img width="400" src="https://github-readme-stats.vercel.app/api?username=carlostsa&show_icons=true&theme=vision-friendly-dark&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostsa&layout=compact&langs_count=7&theme=vision-friendly-dark&hide_border=true"/>
 </div>
