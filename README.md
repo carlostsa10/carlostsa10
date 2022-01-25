@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1> <img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="36px">Hello, hello, hello<img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="36px"> </h1>
+<h1> <img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="36px"> Hello, hello, hello <img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="36px"> </h1>
 
 <a href="http://api.whatsapp.com/send?1=pt_BR&phone=5561986084481" target="_blank">
   <img alt="Whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>  
