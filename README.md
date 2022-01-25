@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/carlostsa/" target="_blank">
   <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
-<img align='right' src='https://fv9-3.failiem.lv/thumb_show.php?i=4y4j8wnqq&view' width='490px'>
+<img align='right' src='https://fv9-3.failiem.lv/thumb_show.php?i=4y4j8wnqq&view' width='400px'>
 
 I'm Carlos Tavares, 25 years old, lawyer and i'm a crazy marvel fan. 🤟
 
