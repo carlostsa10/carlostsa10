@@ -47,11 +47,10 @@ These are the ones I am curiosos about:
 
 <div>
   <a href="https://github.com/carlostsa10">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlostsa10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostsa10&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api?username=carlostsa10&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostsa10&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
   
 ##
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
 
-_generated with [Platane/snk](https://github.com/Platane/snk)_
