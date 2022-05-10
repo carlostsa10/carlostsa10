@@ -35,7 +35,7 @@ I'm Carlos Tavares, 25 years old, lawyer and i'm a crazy marvel fan. 🤟
   
 These are the tecnologys that I am currently styding ate the moment:
 
-<a href="https://icons8.com/icon/lVitPDXqQKP8/reagir">Reagir icon by Icons8</a>
+<img src="https://img.icons8.com/dusk/64/000000/react.png"/>
 
 
 These are the ones I am curiosos about:
