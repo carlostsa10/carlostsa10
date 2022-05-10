@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 <div align="center">
   
   <a href="https://mail.google.com/mail/u/carlostsa10@gmail.com" target="_blank">
-  <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
-  <a href="https://web.facebook.com/mrcarlost" target="_blank"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+  <img alt="Gmail" src="https://img.icons8.com/clouds/100/000000/gmail-new.png" /></a> 
+  <a href="https://web.facebook.com/mrcarlost" target="_blank"><img alt="Facebook" src="https://img.icons8.com/clouds/100/000000/facebook.pn" /></a>
 <a href="https://www.linkedin.com/in/carlostsa/" target="_blank">
-  <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img alt="Linkedin" src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
   </div>
   
   <img align='right' src='https://fv9-3.failiem.lv/thumb_show.php?i=4y4j8wnqq&view' width='390px'>
