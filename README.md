@@ -41,8 +41,6 @@ These are the ones I am curiosos about:
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostsa10&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 </div>
   
-<br>  
-  
   <div align="center" align-itens="space-between">
    <h2>📫 How to reach me</h2>
   
