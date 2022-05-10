@@ -35,14 +35,7 @@ I'm Carlos Tavares, 25 years old, lawyer and i'm a crazy marvel fan. 🤟
   
 These are the tecnologys that I am currently styding ate the moment:
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-<img src="https://img.icons8.com/color/48/000000/css3.png"/>
-<img src="https://img.icons8.com/dusk/64/000000/react.png"/>
-<img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
-<img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/dusk/64/000000/react.png"/><img src="https://img.icons8.com/color/48/000000/nodejs.png"/><img src="https://img.icons8.com/fluency/48/000000/node-js.png"/><img src="https://img.icons8.com/color/48/000000/npm.png"/><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/><img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 
 
 These are the ones I am curiosos about:
