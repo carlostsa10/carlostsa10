@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1> <img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="29px"> hello, hello, hello <img src="https://i.pinimg.com/originals/ea/40/c8/ea40c8a8d7e150de1f1c76866e6e5425.png" width="29px"> </h1>
-<div align="center">
+<div align="center" align-itens="space-between">
   
   <a href="https://mail.google.com/mail/u/carlostsa10@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.icons8.com/clouds/100/000000/gmail-new.png" /></a> 
-  <a href="https://web.facebook.com/mrcarlost" target="_blank"><img alt="Facebook" src="https://img.icons8.com/clouds/100/000000/facebook.pn" /></a>
+  <a href="https://web.facebook.com/mrcarlost" target="_blank"><img alt="Facebook" src="https://img.icons8.com/clouds/100/000000/facebook.png" /></a>
 <a href="https://www.linkedin.com/in/carlostsa/" target="_blank">
   <img alt="Linkedin" src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
   </div>
