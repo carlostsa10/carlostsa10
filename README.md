@@ -17,13 +17,13 @@ Here are some ideas to get you started:
   
   <img align='right' src='https://fv9-3.failiem.lv/thumb_show.php?i=4y4j8wnqq&view' width='390px'>
 
-I'm Carlos Tavares, 25 years old, lawyer and i'm a crazy marvel fan. 🤟
+I'm Carlos Tavares, 26 years old, lawyer and i'm a crazy marvel fan. 🤟
 <br>
 
 <h2>⚡Abilities</h2>
 
--   Back-end 
--   Front-end
+-   Back-end (NodeJs)
+-   Front-end (ReactJs)
   
 These are the tecnologys that I am currently styding ate the moment:
 
