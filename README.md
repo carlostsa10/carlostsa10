@@ -18,7 +18,9 @@ Here are some ideas to get you started:
   <img align='right' src='https://fv9-3.failiem.lv/thumb_show.php?i=4y4j8wnqq&view' width='390px'>
 
 I'm Carlos Tavares, 26 years old, lawyer and i'm a crazy marvel fan. 🤟
-Here on my GitHub you will find all my projects, but mostly code. :zany_face: :sunglasses:  
+
+Here on my GitHub you will find all my projects, but mostly code. :sunglasses:
+
 I'll try to add as much information as possible in the README of my projects so that you can see and test them.
 <br>
 
