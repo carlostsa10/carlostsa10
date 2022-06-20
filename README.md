@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 I'm Carlos Tavares, 26 years old, lawyer and i'm a crazy marvel fan. 🤟
 
-Here on my GitHub you will find all my projects, but mostly code. :sunglasses:
+Here on my GitHub you'll find all my projects, but mostly code. :sunglasses:
 
 I'll try to add as much information as possible in the README of my projects so that you can see and test them.
 <br>
