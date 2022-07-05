@@ -36,7 +36,7 @@ These are the tecnologies that I am currently studying at the moment:
 
 These are the ones I am curious about:
 
-<img src="https://img.icons8.com/color/48/000000/angularjs.png"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png"/> <img src="https://img.icons8.com/windows/48/CD0101/ruby-on-rails.png"/> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-java-computer-programming-flaticons-flat-flat-icons.png"/> <img src="https://img.icons8.com/fluency/48/000000/php.png"/> 
+<img src="https://img.icons8.com/color/48/000000/angularjs.png"/> <img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png"/> <img src="https://img.icons8.com/windows/48/9A0303/ruby-on-rails.png"/> <img src="https://img.icons8.com/external-flaticons-flat-flat-icons/48/000000/external-java-computer-programming-flaticons-flat-flat-icons.png"/> <img src="https://img.icons8.com/fluency/48/000000/php.png"/> 
 
 <br>
 
