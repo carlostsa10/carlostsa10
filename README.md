@@ -48,7 +48,7 @@ These are the ones I am curious about:
   
   
   <a href="https://web.facebook.com/mrcarlost" target="_blank"><img alt="Facebook" src="https://img.icons8.com/clouds/100/000000/facebook.png" /></a>
-    <a href="https://mail.google.com/mail/u/carlostsa10@gmail.com" target="_blank">
+    <a href="mailto:carlostsa10@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.icons8.com/clouds/100/000000/gmail-new.png" /></a> 
 <a href="https://www.linkedin.com/in/carlostsa/" target="_blank">
   <img alt="Linkedin" src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
