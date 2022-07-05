@@ -17,7 +17,7 @@ Here are some ideas to get you started:
   
   <img align='right' src='https://fv9-3.failiem.lv/thumb_show.php?i=4y4j8wnqq&view' width='390px'>
 
-My name is Carlos Tavares, 26 years old, i'm a lawyer and a crazy marvel fan. 🤟
+My name is Carlos Tavares, i'm 26 years old, a lawyer and a crazy marvel fan.  🤟
 
 Here on my GitHub you'll find all my projects, but mostly code. :sunglasses:
 
