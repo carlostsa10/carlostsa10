@@ -54,6 +54,8 @@ These are the ones I am curious about:
   <img alt="Linkedin" src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
   <a href="https://www.linkedin.com/in/carlostsa/" target="_blank">
   <img alt="Discord" src="https://img.icons8.com/clouds/100/000000/discord-logo.png"/></a>
+  <a alt="Spotify" href="" target="_blank">
+  <img src="https://img.icons8.com/clouds/100/000000/spotify.png"/>
   
   </div>
   
