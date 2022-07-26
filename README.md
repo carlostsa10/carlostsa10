@@ -46,7 +46,7 @@ These are the ones I am curious about:
   
    <h2>📫 How to reach me</h2>
   
-  
+  <div align='center'> 
   <a href="https://web.facebook.com/mrcarlost" target="_blank"><img alt="Facebook" src="https://img.icons8.com/clouds/100/000000/facebook.png" /></a>
     <a href="mailto:carlostsa10@gmail.com" target="_blank">
   <img alt="Gmail" src="https://img.icons8.com/clouds/100/000000/gmail-new.png" /></a> 
@@ -56,8 +56,8 @@ These are the ones I am curious about:
   <img alt="Discord" src="https://img.icons8.com/clouds/100/000000/discord-logo.png"/></a>
   <a alt="Spotify" href="https://open.spotify.com/playlist/1L4p96MLYtIoATaRQnbyhQ?si=KKSMqGjOQZewIyomIyepaQ&utm_source=copy-link" target="_blank">
   <img src="https://img.icons8.com/clouds/100/000000/spotify.png"/>
-  
   </div>
+ </div>
   
 ##
 ![github contribution grid snake animation](https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg)
