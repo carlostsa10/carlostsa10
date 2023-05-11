@@ -31,7 +31,7 @@ I'll try to add as much information as possible in the README of my projects so 
   
 These are the tecnologies that I am currently studying at the moment:
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img alt="angular" src="https://img.icons8.com/color/48/000000/angularjs.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img src="https://icons8.com.br/icon/qj0wJfiEvF4V/blockchain"/><img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img alt="angular" src="https://img.icons8.com/color/48/000000/angularjs.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="48" height="48" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/48/external-blockchain-digital-currency-wanicon-lineal-color-wanicon.png" alt="external-blockchain-digital-currency-wanicon-lineal-color-wanicon"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 
 
 
