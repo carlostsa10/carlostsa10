@@ -31,14 +31,16 @@ I'll try to add as much information as possible in the README of my projects so 
   
 These are the tecnologies that I am currently studying at the moment:
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img alt="angular" src="https://img.icons8.com/color/48/000000/angularjs.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="48" height="48" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/48/external-blockchain-digital-currency-wanicon-lineal-color-wanicon.png" alt="external-blockchain-digital-currency-wanicon-lineal-color-wanicon"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img alt="angular" src="https://img.icons8.com/color/48/000000/angularjs.png"/> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> <img width="48" height="48" src="https://img.icons8.com/external-wanicon-lineal-color-wanicon/48/external-blockchain-digital-currency-wanicon-lineal-color-wanicon.png" alt="external-blockchain-digital-currency-wanicon-lineal-color-wanicon"/> 
+<img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-green-tal-revivo/48/external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo.png" alt="external-typescript-an-open-source-programming-language-developed-and-maintained-by-microsoft-logo-green-tal-revivo"/> <img width="48" height="48" src="https://img.icons8.com/color/48/red-hat.png" alt="red-hat"/>
+
 
 
 
 These are the ones I am curious about:
 
 <img src="https://img.icons8.com/fluency/48/000000/node-js.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/npm.png"/> <img src="https://img.icons8.com/plasticine/48/000000/react.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-typescript-an-open-source-programminglanguage-developed-and-maintained-by-microsoft-logo-shadow-tal-revivo.png"/> <img src="https://img.icons8.com/windows/48/DA3C3C/ruby-on-rails.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/php.png"/> 
+ <img src="https://img.icons8.com/windows/48/DA3C3C/ruby-on-rails.png"/> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> <img src="https://img.icons8.com/fluency/48/000000/php.png"/> <img src="https://img.icons8.com/color/48/000000/postgreesql.png"/> <img src="https://img.icons8.com/color/48/000000/heroku.png"/>
 
 <br>
 
