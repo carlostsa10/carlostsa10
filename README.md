@@ -27,7 +27,7 @@ I'll try to add as much information as possible in the README of my projects so 
 <h2>⚡Abilities</h2>
 
 -   Back-end with NodeJs and Java
--   Front-end with ReactJs
+-   Front-end with ReactJs and Angular
   
 These are the tecnologies that I am currently studying at the moment:
 
