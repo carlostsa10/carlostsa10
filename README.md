@@ -46,7 +46,7 @@ These are the ones I am curious about:
 
 <div>
   <a href="https://github.com/carlostsa10">
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlostsa10&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/username=carlostsa10&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
   
    <h2>📫 How to reach me</h2>
   
